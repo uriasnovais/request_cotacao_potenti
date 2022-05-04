@@ -1,6 +1,6 @@
 # Request Cotação Potenti
 
-API de disponibilização de dados em JSON
+ API de disponibilização de dados em JSON
 
 
 &nbsp;
