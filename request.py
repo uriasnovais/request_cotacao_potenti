@@ -102,3 +102,4 @@ def todecimal(string):
 def get_dicio():
   dicio = dict(get_data())
   dicio = {outer_k: {inner_k: float(inner_v) for inner_k, inner_v in  outer_v.items()} for outer_k, outer_v in dicio.items()}
+  return dicio
